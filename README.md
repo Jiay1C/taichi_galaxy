@@ -3,7 +3,7 @@
 使用太极ODOP编程方法实现了星球引力仿真
 
 ## 成功效果展示
-![demo](.\data\demo.png)
+![demo](./data/demo.png)
 ## 
 
 ## 运行方式
